@@ -1,8 +1,5 @@
-joblib
 streamlit
-scikit-learn
-skyfield
-numpy
+joblib
+pandas
 plotly
-datetime
-timedelta
+scikit-learn
